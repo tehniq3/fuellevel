@@ -1,5 +1,5 @@
 /*
- * fule indicator 
+ * fuel indicator 
  * original sketch by Nicu FLORICA (niq_ro)
  * Craiova, 24.7.2019
  * http://www.arduinotehniq.com
